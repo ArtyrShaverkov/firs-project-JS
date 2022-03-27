@@ -32,7 +32,7 @@ const arrowLess = (num1, num2) => {
     const result = num1 < num2;
     return result;
 }
-
+console.log('вася гусь');
 
 const arrowMoe = (num1, num2) => {
     const result = num1 >= num2;
